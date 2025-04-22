@@ -1,0 +1,23 @@
+Write 5 observations about what you noticed
+1. Dataset contains a total of 3 products ( Bread, Cake and Cookies ) 
+Product	| Total Count of Product	| Total Quantity of Product	| Total Price
+Bread	  |        30               |  	558	                    |  1395
+Cake	  |        30               |  	558	                    |  2790
+Cookies |       	30              |	  558	                    |  1674
+
+2. Dataset contains a total of 3 payment method ( Cash, Card and Transfer ) 
+Payment Method  |	Total Count of Payment Method
+Cash            |          	30
+Card            |          	30
+Transfer        |          	30
+  
+3. Dataset contains a total of 2 custumer type ( New[34%] and Returnting[66%] ) 
+
+Customer Type	Total   |  Count of Customer Type
+New	                  |            30
+Returning             |         	60
+
+4. Dataset contains date stored in this fotmat - 2025-03-05 00:00:00
+
+5. Dataset contains 7 metadata - Date|	Product	Quantity|	Price|	Payment Method|	Customer Type|	Total
+6. Dataset contains no currency specification
