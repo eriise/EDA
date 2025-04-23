@@ -3,7 +3,7 @@ Write 5 observations about what you noticed
 Product	| Total Count of Product	| Total Quantity of Product	| Total Price
 Bread	  |        30               |  	558	                    |  1395
 Cake	  |        30               |  	558	                    |  2790
-Cookies |       	30              |	  558	                    |  1674
+Cookies   |       	30              |	  558	                    |  1674
 
 2. Dataset contains a total of 3 payment method ( Cash, Card and Transfer ) 
 Payment Method  |	Total Count of Payment Method
