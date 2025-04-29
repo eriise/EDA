@@ -1,0 +1,29 @@
+Outlier Detection
+1. Quantity Outliers
+All products sold in consistent batch sizes (e.g., 558 total quantity each, 30 sales).
+ Quantity values are consistent — no freaky spikes.
+
+2. Price Outliers
+Bread = ₦2.50, Cake = ₦5.00, Cookies = ₦3.00
+Very reasonable.
+ Price points are aligned and make sense per product type.
+
+3. Total Value Outliers
+Total values are calculated as Quantity × Price.
+All average totals per sale:
+Bread = ₦46.50
+Cake = ₦93.00
+Cookies = ₦55.80
+Consistent with pricing & quantity
+
+
+Missing Data Check
+Column  	Missing Values Found	    Remarks
+Date	          ❌                     None	All entries have valid dates.
+Product	        ❌                     None	All rows contain valid products.
+Quantity	      ❌                     None	All quantities present.
+Price	          ❌                     None	Fully filled.
+Payment Method	❌                     None	All methods accounted for.
+Customer Type  	❌                     None	No blank customer entries.
+Total	          ❌                     None	All totals calculated.
+Conclusion: No missing data detected.
