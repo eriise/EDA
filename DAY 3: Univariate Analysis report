@@ -1,0 +1,35 @@
+🥖 Bread
+Total Sold: 30 units (equal footing with others)
+Revenue: ₦1,395.00 (lowest of the trio)
+Total Quantity Sold: 558 items
+New Customers: 30 (all new custumers choice)
+Returning Customers: 0
+Average Price per Unit: ₦2.50
+Average Total per Sale: ₦46.50
+Payment Method: 100% Cash 
+
+🎂 Cake
+Total Sold: 30 units
+Revenue: ₦2,790.00 (Highest)
+Total Quantity Sold: 558 items
+New Customers: 0
+Returning Customers: 30 
+Average Price per Unit: ₦5.00
+Average Total per Sale: ₦93.00 (double Bread’s total)
+Payment Method: 100% Card 
+
+🍪 Cookies
+Total Sold: 30 units
+Revenue: ₦1,674.00 (mid-range)
+Total Quantity Sold: 558 items
+New Customers: 0
+Returning Customers: 30 
+Average Price per Unit: ₦3.00
+Average Total per Sale: ₦55.80
+Payment Method: 100% Transfer
+
+📊 Cross-Metric Summary
+Product  	Revenue	  New Customers	  Payment Trend
+Bread    	Low	      High	          Cash
+Cake	    High	    None	          Card
+Cookies  	Mid      	None	          Transfer
