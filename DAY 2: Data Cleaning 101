@@ -1,0 +1,9 @@
+ColumnName	  Cleaning Action	Description
+Date	        Format Standardized	Changed from dd/mm/yyyy h:mm:ss to dd/mm/yyyy for consistency.
+Quantity	    Converted to Number	Ensured numeric format for accurate aggregation and statistical calculations.
+Price	        Converted to Currency	Formatted to show Naira (₦) with two decimal places for better clarity.
+Total        	Converted to Currency	Same formatting as "Price" essential for revenue insights.
+
+No duplicates
+No blank rows/columns
+No obvious typos or data inconsistencies
