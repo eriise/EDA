@@ -1,0 +1,33 @@
+Objective:
+To visually interpret sales data and uncover key insights around product performance, payment trends, customer behaviour, and daily patterns using Excel charts and formulas.
+
+Visualizations Used:
+Bar Charts: Compared Total Revenue per Product , Average Total per Product, Quantity Sold per product, and payment methods per Product.
+Pie Charts: Showed revenue by Product  , Product and customer type. 
+Pivot Tables: Used for quick grouping by Day of the Week, product, Payment Category, and Revenue Category. 
+
+Key Insights:
+Top-Selling Day:
+Monday led with the highest revenue: ₦975
+Wednesday had the lowest revenue, showing potential for targeted promotions midweek.
+
+Most Popular Payment Type:
+Online payments (Card & Transfer) dominated, making up 66.7% of total transactions.
+Offline (Cash): 33.3% Online (Card + Transfer): 66.7%
+
+Product Performance:
+Sales quantity was evenly split across all three products: Bread, Cake, and Cookies.
+Cake generated the highest revenue, making it the premium product.
+Bread sold well, but at a lower price point.
+
+Customer Behavior:
+Bread was exclusively bought by new customers 
+Cake and Cookies were purchased only by returning customers, showing high loyalty to sweets.
+This implies strong loyalty to sweets and Bread might be the new-customer magnet.
+
+Revenue Distribution:
+The majority of units sold (1,164 out of 1,674) fell into the High Revenue category.
+Low and Medium segments are underperforming, indicating either pricing gaps or product bundle opportunities [cake was not a low selling product]
+
+Conclusion
+This analysis gives a clear lens into the product’s positioning, the customer perfrence, and how revenue flows through the system. 
