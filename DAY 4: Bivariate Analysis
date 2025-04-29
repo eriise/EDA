@@ -1,0 +1,46 @@
+1. Product vs Revenue
+Cake brought in the most money (₦2,790), despite all products having the same number of sales (30).
+📌 Insight: Cake = high-ticket item. More value per unit.
+
+Product	  Revenue (₦)
+Bread    	1,395.00
+Cake	    2,790.00
+Cookies  	1,674.00
+
+2. Product vs Customer Type
+Bread: Only new customers.
+Cake & Cookies: Only returning customers.
+📌 Insight: Bread is pulling the New customers; Cake and Cookies are keeping the returning customers.
+
+Product	  New Customers  	Returning Customers
+Bread    	30	            0
+Cake    	0	              30
+Cookies	  0              	30
+
+3. Product vs Payment Method
+Each product dominated one method exclusively:
+Bread = Cash
+Cake = Card
+Cookies = Transfer
+📌 Insight: You can target each payment method group based on their product preference.
+
+Product	  Cash  	Card	  Transfer
+Bread	    30	    0	      0
+Cake	    0      	30	    0
+Cookies	  0	      0	      30
+
+4. Product vs Average Total per Sale
+Cake again wins here at ₦93 per transaction nearly double Bread’s ₦46.5.
+Cookies fall somewhere in-between.
+🎯 Insight: Push Cake during peak purchase seasons or when targeting big spenders.
+
+Product	  Avg Total per Sale (₦)
+Bread      	      46.50
+Cake            	93.00
+Cookies          	55.80
+
+💡 Strategic Takeaways
+Product + Revenue:	Cake is the biggest seller; worth promoting more.
+Product + Customer Type:	Bread is the recruitment tool; use it for first-time buyer promos.
+Product + Payment Method	Each product attracts a different payment vibe,design ads to match.
+Product + Avg Spend:	Cake lovers spend more. Use premium deals and loyalty perks to push sales.
