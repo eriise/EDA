@@ -1,0 +1,27 @@
+Objective:
+To enhance the dataset by creating new columns that reveal deeper insights and improve data analysis, pattern detection, and dashboard visualization.
+
+Features Created
+1. 📅 Day of the Week
+Formula Used: =TEXT(Date, "dddd")
+Purpose: Helps identify daily sales patterns and peak days. For example, we can now answer, “Do people buy more Cake on weekends? YES they do [885 sold]”
+Example Output: Monday, Tuesday, etc.
+Observation: Monday is the peak revenue day, bringing in ₦975 whilst Wednesday saw the lowest revenue at ₦690.
+
+2. 💳 Payment Category
+Formula Used:
+=IF([Payment Method]="Cash", "Offline", "Online")
+Purpose: Categorizes payments into Offline (Cash) and Online (Card, Transfer) to assess digital adoption and customer preference trends.
+Observation: Online payments dominate with over 66% of total transactions. With bread being the only offline payment.
+
+3. 💰 Revenue Category
+Formula Used:
+=IF([Total]<50, "Low", IF([Total]=50, "Medium", "High"))
+Purpose: Bins transactions by size to track high-ticket vs low-ticket purchases.
+Categories:
+Low: Less than ₦50
+Medium: ₦50
+High: ₦50 and above
+Observation: Most of sales fall in the High revenue category, cake was never a low sale.
+
+Note: peak day detected as opposed to previous analysis {we grow everyday} 
